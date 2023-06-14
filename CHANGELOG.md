@@ -1,5 +1,13 @@
 # Changelog
 
+## [1.16.0](https://github.com/starship/starship/compare/v1.15.0...v1.16.0) (2023-06-14)
+
+
+### Features
+
+* **pwsh:** Support vi command mode indicator ([#5049](https://github.com/starship/starship/issues/5049)) ([3180509](https://github.com/starship/starship/commit/318050976b58f032a17ff4d122d21cb63faf8e3b))
+* update the nushell init file and make it valid module and overlay ([#5188](https://github.com/starship/starship/issues/5188)) ([470aeb0](https://github.com/starship/starship/commit/470aeb09a72936a66937d68f96165a977b5c213d))
+
 ## [1.15.0](https://github.com/starship/starship/compare/v1.14.2...v1.15.0) (2023-06-06)
 
 
